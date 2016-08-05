@@ -6,3 +6,8 @@
 #brand-name {
     font-size: 1.8em;
 }
+
+#collapsable-nav li {
+    background-color: #cccc00;
+}
+
